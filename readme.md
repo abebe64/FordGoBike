@@ -1,6 +1,6 @@
 # Project: Data Analysis of Ford GoBike Dataset
 ### By: Abebe Tarekegne
-### Published: on May 5, 2019
+### Published: on May 10, 2019
 
 
 ## Exploration of Dataset
