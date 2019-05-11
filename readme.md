@@ -79,15 +79,15 @@ San Francisco members age from 30 to 40 are the largest number of riders of all 
 
 >We see 8th and 17th hours are the busiest hours for each work week as expected, typical work hour start and end times. 2nd busiest are 9th and 18th hours, followed by 7th and 16th hours all around the work start and end periods.
 
-![Bivariate_HourOftheDay_Weekday_Rides.png](attachment:Bivariate_HourOftheDay_Weekday_Rides.png)
+![Bivariate_HourOftheDay_Weekday_Rides.png](plots/Bivariate_HourOftheDay_Weekday_Rides.png)
 
 >Tuesday seems the most used rides comparing from other days.
 
-![Bike_Ride_Hourly_Trend_by_city.png](attachment:Bike_Ride_Hourly_Trend_by_city.png)
+![Bike_Ride_Hourly_Trend_by_city.png](attachment:plots/Bike_Ride_Hourly_Trend_by_city.png)
 
 >As previously observed the steep rise and fall around peak hours 8th and 17th hours occures especially for San Francisco. Oakland follows the same pattern as San Francisco for 8th hour but with lower rate of change. For 17th hour its rate of decrease is slower until 18th hour.San Jose, we can assume more consistancy in the number of rides betwen 8th hours until 15th hours, then slowly rise at 17th hour. 
 
-![Bivariate_HourOftheDay_Month_Rides.png](attachment:Bivariate_HourOftheDay_Month_Rides.png)
+![Bivariate_HourOftheDay_Month_Rides.png](attachment:plots/Bivariate_HourOftheDay_Month_Rides.png)
 
 >March is the busiest and April is the slowest month of the year. For both San Francisco and Oakland area we show decrease of riders in the month of April while it is peak in the month of October. San Jose shows relatively consistent number of rides across all months of the year.
 
@@ -99,11 +99,11 @@ San Francisco members age from 30 to 40 are the largest number of riders of all 
 
 >From previous analysis we show busy hours are aligned with the commute hours and from the lineplot what we show is the big drops on the number of rides are around Thanksgiving, X-Max, and New Year. The rate of increase after new year in 2019 is considerably very high comparing with the increase after January 1 of 2018. This is mainly due to the high number of bikes brought in service, about 2000 just in the first two months of 2019.
 
-![HistoricalMonthlyTrend_Riders_City.png](attachment:HistoricalMonthlyTrend_Riders_City.png)
+![HistoricalMonthlyTrend_Riders_City.png](attachment:plots/HistoricalMonthlyTrend_Riders_City.png)
 
 >Note that San Francisco riders rate of increase is higher than other cities as shown from the lineplot. 
 
-![HistoricalMonthlyTrend_Riders_User.png](attachment:HistoricalMonthlyTrend_Riders_User.png)
+![HistoricalMonthlyTrend_Riders_User.png](attachment:plots/HistoricalMonthlyTrend_Riders_User.png)
 
 >Subsciber riders are increasingly at a higher rate than customer riders.   
 
@@ -125,7 +125,7 @@ San Francisco members age from 30 to 40 are the largest number of riders of all 
 
 >We show in Google Map the Top 10 (red outer circle), top 25 (orange outer circle) and blue dot for Ford GoBike stations.
 
-![Riders_map.png](attachment:Riders_map.png)
+![Riders_map.png](attachment:plots/Riders_map.png)
 
 ## Key Insights
 
