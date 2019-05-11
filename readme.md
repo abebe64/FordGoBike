@@ -64,7 +64,7 @@ San Francisco members age from 30 to 40 are the largest number of riders of all 
 #### What is the `average speed` of trip by specific area and user type?
 
 >Oakland riders seems have a little bit faster than San Francisco riders. Interestingly San Jose riders are the slowest of all. For Other riders, areas away from city, they are faster than those in city as expected. Subscribers tend to show higher average speed compare to customers.
-![Bivariate_AvgSpeed_User_Type_by_city.png] (./plots/Bivariate_AvgSpeed_User_Type_by_city.png)
+![Bivariate_AvgSpeed_User_Type_by_city.png] (https://github.com/abebe64/FordGoBike/plots/Bivariate_AvgSpeed_User_Type_by_city.png)
 
 #### What is the most commen age group of riders?
 
