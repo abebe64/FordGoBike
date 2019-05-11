@@ -2,6 +2,8 @@
 ### By: Abebe Tarekegne
 ### Published: on May 10, 2019
 
+[Start from Explanatory Report](https://github.com/abebe64/FordGoBike/blob/master/Data%20Analysis%20Ford%20GoBike%20Explanatory%20Report.pdf)
+
 
 ## Exploration of Dataset
 
