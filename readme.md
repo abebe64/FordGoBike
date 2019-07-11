@@ -141,3 +141,6 @@ San Francisco members age from 30 to 40 are the largest number of riders of all 
 And knowing the peak number of riders and maximum duration of bike rides per station used to determine if expanding for another nearby location is needed. It also helps to understand the most effcient use of resource allocation based on area, as San Francisco is the most utilized compared to other cities it is worth focusing for more growth opportunities.
 
 > Knowing the slowest periods as we show around Thanksgiving, X-Max, and New Year can be used to service bikes of high milages in addition to malfanction bikes. And Ford GoBike can prepare by introducing new bikes, new stations, etc. for the high demand periods immediately after new year as we show in 2019 was considerably very high comparing with the previous year especially in San Francisco area. Or re-focus on the potential growth opportunies in the city that has more demands.
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abebe64/FordGoBike/master)
